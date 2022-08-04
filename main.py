@@ -3,7 +3,7 @@ import datetime as dt
 import streamlit as st
 import pandas as pd
 import pickle
-from data_store import guest,function
+
 from st_aggrid import AgGrid
 from data_fxs import *
 import json
