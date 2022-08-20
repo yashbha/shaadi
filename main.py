@@ -373,6 +373,6 @@ def get_data(url):
     return []
 
 if __name__=="__main__":
-    st.legacy_caching.clear_cache()
+    st.caching.clear_cache()
     create_table()
     main_page()
