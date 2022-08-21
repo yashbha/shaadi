@@ -1,3 +1,4 @@
 pandas==1.2.1
 streamlit-aggrid==0.3.2
 streamlit_timeline==0.0.2
+streamlit==1.1
